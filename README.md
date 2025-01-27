@@ -37,5 +37,18 @@ Program ini adalah implementasi dasar dari **PhoneBook** menggunakan konsep **Ob
 
 1. **Clone repositori ini** ke komputer Anda:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Konsekuensi/RSC-PENIDIDIKAN-DAY1
+   cd RSC-PENIDIDIKAN-DAY1
+2. **Compile program** menggunakan compiler Anda (misal g++):
+   ```bash
+   g++ -0 phonebook membantu_pak_bell.cpp
+3. **Jalankan Program**:
+   ```bash
+   ./phonebook
+
+
+---
+
+Shoutout untuk chatgpt udah ngebantuin ngebuat kode sama bantuin nulis README.md 🙌
+
+
